@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iowa-liquor-sales-eda",
+  "private_key_id": "ae2e10c0888696e02e2cf48858e4e1f7584f453d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBzoS1v+Jks4w7\nmcBMnuA609GUxnB/w9WcyWAeIFsP5FXequ+XEqgmlcReU+2T8rhudeJG4w9SNgpE\nD72CYD9w9XAd89Evkm8FMMLBkADUW40ORfE5yBPvcktvgbx4hIKPdD6kEGZ2vAFu\nhf7JQ+430SaHwlhy3FBl005ejj8pbbRAg80RDQg0GzyIqnYBSm5VhV4E//RDdtAH\nkwRRT1b3+CF24LxfyM4xFWG5GN4mhOuh4OOtanZW9jdTxgBrkYLVDwrxAgtONpiW\n6AuoCN7E12aVHaBH1pNFlKXOOOEsFP6p+OEhzbhpPMwjYmmoD9/gwcl3u8ZXYpU3\nU4JNuOFnAgMBAAECggEAQ9M6B389RD+/wnX24fmyAHRzwszFvzjyb3ncHP72z3N6\nB8Crs6OwXDyKqfZWTTIjEGlKBMPe70cBRbt6d3+mhCopEBptaWgmWVsstV/nomnd\nzhJ1LuMR8vj9ZGszYbwCEyE78N/adBAsshjLx3TyD++uu9EschofOtt98EJ44U6p\nh+Mb6/41b5CcMGvuXM5ot9uaAIzQuU7QYx0YxT29ezjm9PpFAx9Oaf5fQiOQu4DM\nFo1sxQr7sLH3HCsa002PlN5n1JCSIyB/9dOa+kw67ES41Xa1XLV0ZR8gW+bcowP5\nEv/pnAbbfWxNXs/c6zqp9HlC7nU5J7VLWLEsY8+1jQKBgQD9+htKT+ow1N9xgyFl\nrr5arod92LdJjqUWqy/XlbJMaYoLsQeiG3PYG2cP9eTHa2cQdNSlrUsMIiDHyu7Q\nPm5DIPDsBSto9OqIDyGzElfHiGnIV4itVy5UR1fGWqiZnoU3tc3AHsNqTqPwXWRh\n3ayHoL/M/kwG/FkogJDT+tguxQKBgQDDWbdruJcgA95grYYWAyUndLF/WrlrbGmi\nFAxh4wldB+YfN45DZi0hVUQijcegRUmUzB0TeYD3QVgkTB+5CXdPJYmsTTygu9ZE\nqcc9vHtn6y4oLNsB79EJFMGgC/84nUawabfr//idEe6thJT5PX+FPc/jSROZuuwa\nKAHZke9SOwKBgDKjiotvkac42nBcj+0hQUz9XYCHFExzR5FUgo5+h3Va2a5pFreI\nt7lQBWWWRo5IaN1MHhYGjl8V8ulDGgilWgDCcabthPFBW/3S3opAzwW2uji600KU\njmU5cFPZQaKXi8JG2oZC2/23PlKvnFMzCrJkJ7nsviXqbLB5qebKLg5tAoGBALQe\nZdPJ+HYJeyIy/N4Q+lH986cUdMCKzn8l8yDSYJDJtrHz3JVigZwpbVBa38Rz/ltX\nNDv/nRzdwDJ/igRnqP1uBBm9gXhGmVLoJBBVWIfBveZHLYwEnf28iKdUSHff9Ay2\n/WF5u7a/kQ2moGGLBahKDQNpHsxxID8hwkrklwB/AoGBAKKhgiMf+zbTwwWeLgH1\njjrzXB1rtqB6P21Bab9LvHjMGNc/RLjt+/o7Ot7qYwGCsJBC3Sy/MAdXIc2RWrpi\nd+jfz0RvFzvKw8YIHlsC9ZDhcQUuM+O50A0JXJM8LG4YbDitOh4te/SXD1Xxy8yg\n/EGK0m/XZXTyW0AlgXhvhmVq\n-----END PRIVATE KEY-----\n",
+  "client_email": "iowa-sales-service@iowa-liquor-sales-eda.iam.gserviceaccount.com",
+  "client_id": "101096922610761018097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iowa-sales-service%40iowa-liquor-sales-eda.iam.gserviceaccount.com"
+}
